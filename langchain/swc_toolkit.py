@@ -15,7 +15,10 @@ except ImportError:
         "swcpy is not installed. Please install it."
     )
 
-config = SWCConfig(backoff=False)
+config = SWCConfig(
+    swc_base_url="http://0.0.0.0:8000",  # 👈 Your API endpoint here
+    backoff=False
+)
 local_swc_client = SWCClient(config)
 
 

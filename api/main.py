@@ -33,8 +33,11 @@ app = FastAPI(
     description=api_description,
     title="Sports World Central (SWC) Fantasy Football API",
     version="0.2",
+    servers=[
+        {"url": "https://congenial-guacamole-5gq4prj96pqw2vr7g-8000.app.github.dev/",
+        "description": "Main server"} 
+    ]
 )
-
 
 # Dependency
 def get_db():
