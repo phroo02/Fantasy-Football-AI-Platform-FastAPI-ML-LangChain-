@@ -176,14 +176,5 @@ See [LICENSE](./LICENSE) for details.
 
 ---
 
-## 👤 Author
-
-**Parham Zamani**  
-📍 Turin, Italy  
-📧 [parhamzamani2002@gmail.com](mailto:parhamzamani2002@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/parham-zamani-7520b8267) | [GitHub](https://github.com/phroo02)
-
----
-
 > *“APIs are the modern fabric of AI systems. Build them smart, scalable, and human-friendly.”*  
 > — Ryan Day, *Hands-On APIs for AI and Data Science (O’Reilly, 2025)*
